@@ -74,3 +74,6 @@ $ python3 -m unittest tests/test_console.py
 ## Authors ✒️
 - John Obure [obure1always](mailto:j.obure1@alustudent.com)
 ```
+- Thierry SHYAKA [ThierrySHYAKA](mailto:t.shyaka1@alustudent.com)
+```
+
